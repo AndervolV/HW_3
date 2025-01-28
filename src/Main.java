@@ -71,7 +71,7 @@ public class Main {
         System.out.println("При Диете-2 и сбросом веса по 500гр. в день, потребуется " + gm500 + " дней");
         System.out.println("В среднем при Диете, потребуется " + averageDay + " дней");
 
-        //Задача 8
+        //Задача 8.
         int salaryMasha = 67760;
         int salaryMashaYear = salaryMasha * 12;
         int salaryDenis = 83680;
