@@ -16,7 +16,7 @@ public class Main {
         System.out.println("Значение переменной 'f' с типом 'double' равно " + sixDouble);
 
         //Задача 2
-        //Инициализируйте переменные 1000000000
+        // Инициализируйте переменные 1000000000
         double oD;
         oD = 27.12;
         long dV;
@@ -37,8 +37,8 @@ public class Main {
         byte annaSergeevna = 27;
         byte ekaterinaAndreevna = 30;
         short totalPaper = 480;
-        int toEvereone = totalPaper / (lyudmilaPavlovna + annaSergeevna + ekaterinaAndreevna);
-        System.out.println("На каждого ученика рассчитано " + toEvereone + " листов бумаги");
+        int toEveryOne = totalPaper / (lyudmilaPavlovna + annaSergeevna + ekaterinaAndreevna);
+        System.out.println("На каждого ученика рассчитано " + toEveryOne + " листов бумаги");
 
         //Задача 4
         byte bottle = 16;
