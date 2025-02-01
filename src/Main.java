@@ -46,7 +46,7 @@ public class Main {
         int bottlesPerMinute = bottle / minutes;
         int za20Min = bottlesPerMinute * 20;
         int zaSutki = za20Min * 3 * 24;
-        int za3Day = zaSutki * 30;
+        int za3Day = zaSutki * 3;
         int za30Day = za3Day * 10;
         System.out.println("За 20 минут машина произвела " + za20Min + " штук бутылок");
         System.out.println("За сутки машина произвела " + zaSutki + " штук бутылок");
